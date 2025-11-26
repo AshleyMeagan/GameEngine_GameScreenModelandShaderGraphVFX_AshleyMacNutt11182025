@@ -842,7 +842,7 @@ Transform:
   m_GameObject: {fileID: 561210266}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1, z: 0}
+  m_LocalPosition: {x: 1481, y: 39, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -1516,7 +1516,7 @@ PrefabInstance:
     - target: {fileID: -7511558181221131132, guid: cce2e7d795de0704eb5391742ad303dd, type: 3}
       propertyPath: 'm_Materials.Array.data[0]'
       value: 
-      objectReference: {fileID: 2100000, guid: 3015a342f70243a46b511f2aa0661d3f, type: 2}
+      objectReference: {fileID: 2100000, guid: b756c09e249d9be479a59b1cb2d848e0, type: 2}
     - target: {fileID: 919132149155446097, guid: cce2e7d795de0704eb5391742ad303dd, type: 3}
       propertyPath: m_Name
       value: Planet_Substance
@@ -12044,13 +12044,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1978263011}
   serializedVersion: 2
-  m_LocalRotation: {x: -0.0768812, y: 0.78653866, z: -0.40713242, w: 0.4579185}
-  m_LocalPosition: {x: 1419, y: 252, z: 66}
-  m_LocalScale: {x: 112.2623, y: 112.2623, z: 112.2623}
+  m_LocalRotation: {x: -0.4142733, y: 0.6069758, z: -0.0067100306, w: -0.6781689}
+  m_LocalPosition: {x: -265, y: 409, z: 66}
+  m_LocalScale: {x: 51.73608, y: 78.67506, z: 51.73608}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 34.753, y: 107.649, z: -36.943}
+  m_LocalEulerAnglesHint: {x: 34.753, y: 264.406, z: -36.943}
 --- !u!1 &2009917957
 GameObject:
   m_ObjectHideFlags: 0
